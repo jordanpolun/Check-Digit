@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CheckDigit
+comment1.params=numWithCheckDigit
+comment1.target=boolean\ isValid(int)
+comment2.params=num
+comment2.target=int\ getCheck(int)
+comment3.params=num
+comment3.target=int\ getNumberOfDigits(int)
+comment4.params=num\ n
+comment4.target=int\ getDigit(int,\ int)
+numComments=5
